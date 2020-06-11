@@ -1,9 +1,9 @@
 h4{
-    font-family: 'Righteous', cursive;
+    font-family: 'Open Sans', sans-serif;
     padding-top: 10px;
 }
 
-.img img{
+.container .img img{
     width: 50%;
     padding-bottom: 10px;
     padding-top: 15px;
